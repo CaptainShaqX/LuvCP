@@ -88,7 +88,7 @@ int main()
 	// ++ :
 
 	// a++
-	int a = 9;
+	// int a = 9;
 	// a = a + 1; // or a++
 	// cout << a << endl;
 	// cout << a++ << endl;
